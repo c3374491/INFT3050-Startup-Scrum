@@ -1,0 +1,14 @@
+Completed required exercises as directed for the Lab. 
+Used w3schools, freecodecamp, dev.to, and developer.mozilla.org to assist in completing the tasks.
+https://www.w3schools.com/js/js_array_sort.asp
+https://www.w3schools.com/js/js_comments.asp
+https://www.w3schools.com/jsref/jsref_tofixed.asp#:~:text=JavaScript%20Number%20toFixed()&text=The%20toFixed()%20method%20converts,a%20specified%20number%20of%20decimals.
+https://www.freecodecamp.org/news/how-to-loop-through-an-array-in-javascript-js-iterate-tutorial/
+https://www.freecodecamp.org/news/javascript-array-of-objects-tutorial-how-to-create-update-and-loop-through-objects-using-js-array-methods/
+https://dev.to/hariseldon27/localecompare-and-sorting-in-javascript-1god
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare
+
+Referred to the solutions to confirm I had completed the tasks to either the same or similar level. 
+Found that I had completed at least 1 exercise different to the solutions. 
+Reviewed the solution and spent time understanding their approach. 
+Updated my code to follow similar to the solutions provided.
